@@ -1,0 +1,7 @@
+{
+  "name": "TerrainAI – Single Image to 3D Terrain",
+  "description": "Reconstruct relative and calibrated 3D digital surface models from single-view optical remote-sensing images with interactive 3D navigation, slope analysis, and height measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
